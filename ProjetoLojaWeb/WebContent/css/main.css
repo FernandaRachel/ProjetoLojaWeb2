@@ -1,0 +1,32 @@
+@CHARSET "ISO-8859-1";
+
+input[type=number],
+input[type=password],
+input[type=text]{
+    width: 100%;
+    border: 1px solid #743F3F;
+    height: 34px;
+    padding: 7px;
+    font-size: 15px
+}
+
+header{
+	background-color: #CDB09D !important;
+}
+
+.lead{
+	text-align: center;
+}
+
+label{
+	font-size: 20px;
+	color: #513A31;
+}
+
+.blabla{
+	margin-top: 50px;
+}
+
+#top{
+	margin-top: 50px;
+}
